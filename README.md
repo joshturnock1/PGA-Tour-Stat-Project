@@ -16,7 +16,6 @@ Sales Data: The main data source used for this analysis is the "CoffeeChain-Data
 - Jupyter Notebooks - Data Cleaning
 - Python, Pandas - Data Cleaning
 - Python - Data Visualization
-- Tableau - Data Visualization
 
 ### Data Cleaning
 
